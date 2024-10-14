@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+numpy~=1.26.4
+sncosmo==2.11.1
+astro-parsnip==1.4.2
